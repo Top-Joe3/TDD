@@ -1,0 +1,28 @@
+{
+  "name": "test-driven-development",
+  "version": "1.0.0",
+  "description": "Test Driven Development project",
+  "keywords": [
+    "tdd",
+    "test",
+    "development"
+  ],
+  "homepage": "https://github.com/Top-Joe3/TDD#readme",
+  "bugs": {
+    "url": "https://github.com/Top-Joe3/TDD/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Top-Joe3/TDD.git"
+  },
+  "license": "ISC",
+  "author": "Joseph Kwasi Ackumey",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
